@@ -7,6 +7,21 @@
 - This is a simple Console Game implemented in C# and .NET Core.
 - Console only, no GUI available.
 
+## Technology stack:
+- C#
+- .NET Core
+
+## Design Diagram:
+
+<p align="center">
+<img src="./RockPaperScissors-Lizard-Spock-diagram.png"/>
+</p>
+
+## Rules Diagram:
+<p align="center">
+<img src="./rock-paper-scissors-lizard-spock.jpg"/>
+</p>
+
 
 ## Rules
 - Scissors cuts Paper
@@ -26,16 +41,6 @@
 
 
 
-
-## Technology stack:
-- C#
-- .NET Core
-
-## Design Diagram:
-
-<p align="center">
-<img src="./RockPaperScissors-diagram.png" width: 600px height: 800px/>
-</p>
 
 
 
