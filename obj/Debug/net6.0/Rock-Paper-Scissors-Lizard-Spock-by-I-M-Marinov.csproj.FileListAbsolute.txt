@@ -1,0 +1,15 @@
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\bin\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.exe
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\bin\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.deps.json
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\bin\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.runtimeconfig.json
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\bin\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.dll
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\bin\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.pdb
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.AssemblyInfoInputs.cache
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.AssemblyInfo.cs
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj.CoreCompileInputs.cache
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.sourcelink.json
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.dll
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\refint\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.dll
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.pdb
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.genruntimeconfig.cache
+C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\obj\Debug\net6.0\ref\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.dll

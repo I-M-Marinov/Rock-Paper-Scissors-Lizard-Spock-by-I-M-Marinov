@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-const string rock = "Rock";
+            const string rock = "Rock";
             const string paper = "Paper";
             const string scissors = "Scissors";
             const string lizard = "Lizard";
