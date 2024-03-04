@@ -39,6 +39,25 @@
 
 [![Let Sheldon Explain](https://img.youtube.com/vi/_PUEoDYpUyQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=_PUEoDYpUyQ "Let Sheldon explain")
 
+## Screenshots: 
+
+<p align="center">
+<img src="./Screenshot%201.png">
+</p>
+
+<p align="center">
+<img src="./Screenshot%202.png">
+</p>
+
+<p align="center">
+<img src="./Screenshot%203.png">
+</p>
+
+<p align="center">
+<img src="./Screenshot%204.png">
+</p>
+
+
 
 
 
