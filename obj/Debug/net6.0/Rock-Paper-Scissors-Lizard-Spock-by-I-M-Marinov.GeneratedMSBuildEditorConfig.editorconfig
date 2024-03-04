@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Rock_Paper_Scissors_Lizard_Spock_by_I_M_Marinov
-build_property.ProjectDir = C:\Users\Marinov\source\repos\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\
+build_property.ProjectDir = C:\Users\Ivan Marinov\Documents\GitHub\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

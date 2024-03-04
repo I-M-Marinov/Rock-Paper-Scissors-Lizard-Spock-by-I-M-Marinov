@@ -139,11 +139,33 @@
                     sb.AppendLine("---------------------------------------------------");
 
                     Console.WriteLine(sb);
-                    Console.WriteLine("Thanks for playing! See you next time..");
+                    Console.WriteLine("Do you want to exit (y/n) ?");
+                    string exit = Console.ReadLine().ToLower();
 
-                    Environment.Exit(1);
+                    while (true)
+                    {
+                        if (exit != "y")
+                        {
+                            if (exit != "n")
+                            {
+                                Console.WriteLine("Invalid Input. Try Again...");
+                                Console.WriteLine("Do you want to exit (y/n) ?");
+                                exit = Console.ReadLine().ToLower();
+                                continue;
+                            }
+                        }
+
+                        if (exit == "y")
+                        {
+                            Console.WriteLine("---------------------------------------------------");
+                            Console.WriteLine("Thanks for playing! See you next time..");
+                            Thread.Sleep(4000);
+                            Environment.Exit(100);
+                        }
+
+                        break;
+                    }
                 }
-
                 Console.Clear();
             }
 

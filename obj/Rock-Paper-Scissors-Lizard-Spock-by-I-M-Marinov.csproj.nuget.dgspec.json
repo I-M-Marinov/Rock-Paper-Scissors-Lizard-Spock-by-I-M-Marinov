@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marinov\\source\\repos\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj": {}
+    "C:\\Users\\Ivan Marinov\\Documents\\GitHub\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marinov\\source\\repos\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj": {
+    "C:\\Users\\Ivan Marinov\\Documents\\GitHub\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marinov\\source\\repos\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan Marinov\\Documents\\GitHub\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj",
         "projectName": "Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov",
-        "projectPath": "C:\\Users\\Marinov\\source\\repos\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj",
-        "packagesPath": "C:\\Users\\Marinov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marinov\\source\\repos\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\obj\\",
+        "projectPath": "C:\\Users\\Ivan Marinov\\Documents\\GitHub\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov.csproj",
+        "packagesPath": "C:\\Users\\Ivan Marinov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ivan Marinov\\Documents\\GitHub\\Rock-Paper-Scissors-Lizard-Spock-by-I-M-Marinov\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marinov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivan Marinov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
